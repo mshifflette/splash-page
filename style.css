@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: salmon;
+    margin:0px;
+    padding: 20px;
+    font-size: 30px;
+    
+}
+.salmonmain {
+    height: 200px;
+    width: 500px;
+    margin: 0 auto;
+}
+.headerlist li{
+    display:inline;
+}
